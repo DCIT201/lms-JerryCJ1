@@ -6,7 +6,7 @@ public class App {
         //Object for a book
         Book book1 = new Book("How football is played", "Lionel Adres Messi", 2010);
         Book book2 = new Book("How I try to compete with the god of football", "Cristiano Ronaldo", 2008);
-
+        Book book3 = new Book("1984", "George Orwell", 1949);
         //Object for a Patron
         Patron pt = new Patron("Pep Guardiola", "22020691");
 
